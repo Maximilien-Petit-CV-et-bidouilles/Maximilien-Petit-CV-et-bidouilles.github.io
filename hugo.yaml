@@ -1,0 +1,68 @@
+baseURL: "https://maximilienpetitbidouilles.github.io/MP/"
+languageCode: en-us
+title: Maximilien Petit
+theme: terminal
+
+
+readingTime: true
+Toc: false
+TocTitle: "Table des matières"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 3
+params:
+  centerTheme: true
+  readMore: En savoir plus
+  newerPosts: Articles plus récents
+  olderPosts: Articles plus anciens
+  readOtherPosts: Voir également
+  words: mots
+  minuteReadingTime: minutes de lecture
+  images:
+    - /og-image.png
+  autoCover: true
+  latestContentSize: 10
+  logo:
+    logoText: Maximilien Petit
+    logoHomeLink: https://maximilienpetitbidouilles.github.io/MP/
+  social:
+    twitter: 
+  tools:
+    facebook_pixel_id: 
+    google_tag_manager_id: 
+pagination:
+  pagerSize: 10
+menu:
+  main:
+    - identifier: home
+      name: Accueil
+      url: /
+      weight: 1
+    - identifier: blog
+      name: Bidouilles
+      url: /blog
+      weight: 3
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 5
+    - identifier: cv
+      name: Cv
+      url: /cv
+      weight: 6
+    - identifier: about
+      name: À propos
+      url: /about
+      weight: 7
+services:
+  googleAnalytics:
+    id:
+taxonomies:
+  tag: tags
+
+

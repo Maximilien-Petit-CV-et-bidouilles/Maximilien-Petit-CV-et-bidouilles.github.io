@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Maximilien Petit</title>
+    <link>https://maximilienpetitbidouilles.github.io/MP/tags/</link>
+    <description>Recent content in Tags on Maximilien Petit</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 09:12:24 +0200</lastBuildDate>
+    <atom:link href="https://maximilienpetitbidouilles.github.io/MP/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Omeka S</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/omeka-s/</link>
+      <pubDate>Mon, 14 Apr 2025 09:12:24 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/omeka-s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YunoHost</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/yunohost/</link>
+      <pubDate>Wed, 09 Apr 2025 10:37:51 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/yunohost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HAL</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/hal/</link>
+      <pubDate>Tue, 08 Apr 2025 10:25:03 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/hal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pédagogie</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/p%C3%A9dagogie/</link>
+      <pubDate>Mon, 07 Apr 2025 13:39:57 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/p%C3%A9dagogie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zotero</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/zotero/</link>
+      <pubDate>Mon, 07 Apr 2025 13:39:57 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/zotero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/hugo/</link>
+      <pubDate>Sun, 06 Apr 2025 12:36:59 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Médiation Scientifique</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/m%C3%A9diation-scientifique/</link>
+      <pubDate>Sun, 06 Apr 2025 12:36:59 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/m%C3%A9diation-scientifique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/llm/</link>
+      <pubDate>Thu, 03 Apr 2025 20:25:29 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whisper</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/whisper/</link>
+      <pubDate>Thu, 03 Apr 2025 20:25:29 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/whisper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HCERES</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/hceres/</link>
+      <pubDate>Thu, 03 Apr 2025 13:29:30 +0200</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/hceres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://maximilienpetitbidouilles.github.io/MP/tags/python/</link>
+      <pubDate>Tue, 25 Mar 2025 22:35:15 +0100</pubDate>
+      <guid>https://maximilienpetitbidouilles.github.io/MP/tags/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
