@@ -7,12 +7,6 @@ title: 'cv'
 ---
 {{< qr text="https://maximilien-petit-cv-et-bidouilles.github.io/" />}}
 
-## Mon projet de mobilité interne
-
-Je suis actuellement IGE BAP F Chargé des ressources documentaires (F2A42). J'aimerais pouvoir évoluer en mobilité interne à l'UVSQ sur un poste de la BAP F ou, si possible, sur un poste BAP J. En effet, en raison de mon parcours professionnel je peux par exemple justifier de compétences sur l'ingénierie en formation ou l'appui au projet de recherche. J'ai un enfant en bas âge donc ma mobilité géographique se limite au campus Vauban d'Alembert (hors DBIST), à l'UFR Simone Veil-Santé, à la Faculté de droit et science politique, à l'UFR des sciences, à l'observatoire de Versailles Saint-Quentin-en-Yvelines, à la Maison de l'étudiant. 
-
-Je suis capable de m'investir sur la formation des publics, l'ingénierie pédagogique, la veille informationnelle, le portage de projets, la médiation scientifique et culturelle, l'informatique documentaire, la politique documentaire, les humanités numériques, la méthodologie de la recherche qualitative, la rédaction de documentation technique, la rédaction de dossiers d'appels à projets, la conception de tableaux de bord. 
-
 ## Formation et diplômes
 
 {{< education destination="cv" >}}
