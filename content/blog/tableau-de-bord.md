@@ -33,7 +33,7 @@ L'idée étant d'avoir, pour chaque chercheur, son nom + prénom, sa date d'arri
 Vous pouvez consulter le tableau de bord interactif ci-dessous :
 
 <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-  <iframe src="/MP/html/10_code_fonctionnel_tableau_de_bord_37.html" width="100%" height="600" style="border: none;"></iframe>
+  <iframe src="/html/10_code_fonctionnel_tableau_de_bord_37.html" width="100%" height="600" style="border: none;"></iframe>
 </div>
 
 Et le code à la suite : 
