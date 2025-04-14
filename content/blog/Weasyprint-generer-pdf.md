@@ -45,7 +45,7 @@ get_ipython().system('source venv/bin/activate && weasyprint --info')
 ```
 
 ```code
-!weasyprint -s style.css https://maximilienpetitbidouilles.github.io/MP/cv/ /tmp/test.pdf
+!weasyprint -s style.css https://maximilien-petit-cv-et-bidouilles.github.io/cv/ /tmp/test.pdf
 ```
 ## Pour aller plus loin
 
