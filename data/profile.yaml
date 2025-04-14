@@ -10,7 +10,7 @@ cv:
 
 social:
   - label: "Email"
-    url: "mailto:maximilien.petit@gmail.com"
+    url: "mailto:maximilien.petit.cv@gmail.com"
     includeInAbout: true
     includeInCV: true
   - label: "HAL"
