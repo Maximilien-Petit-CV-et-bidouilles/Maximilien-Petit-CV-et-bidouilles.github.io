@@ -33,11 +33,11 @@ Le résultat visible ici : <a href="https://bibliohisto.org/s/bibliohisto/page/m
 
 Ci-dessous, une capture d'écran du formulaire de dépôt envoyé aux étudiants : 
 
-<img src="/MP/images/depot_1.PNG" alt="Dépôt Omeka S 1" style="width:100%; height:auto;">
+<img src="/images/depot_1.PNG" alt="Dépôt Omeka S 1" style="width:100%; height:auto;">
 
 Toute le circuit repose donc sur Omeka S et sur un module en particulier : **Collecting** (lien en fin de bidouille). Cette solution est pertinente car elle permet de construire aisément un formulaire et de mettre en place un dépôt de fichiers. En plus, le module fournit un véritable outil en *back-office* qui va vous permettre de suivre, gérer et modérer le dépôt de fichiers et la bascule qui se fait ensuite pour la création de la notice bibliographique. J'ajoute une capture d'écran qui permet de comprendre la construction de formulaire (avec des métadonnées en Dublin Core) : 
 
-<img src="/MP/images/depot_2.PNG" alt="Dépôt Omeka S 2" style="width:100%; height:auto;">
+<img src="/images/depot_2.PNG" alt="Dépôt Omeka S 2" style="width:100%; height:auto;">
 
 **Vous avez la main sur les propriétés de contenu, les libellés (ce qui s'affiche pour l'utilisateur), l'aspect obligatoire ou non des champs à remplir**. L'onglet "Contenus collectés" vous donne ensuite la possibilité de réviser les dépôts et de gérer l'affichage des notices (Public ou non).
 
