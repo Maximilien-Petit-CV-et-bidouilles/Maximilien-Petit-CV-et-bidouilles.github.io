@@ -21,6 +21,10 @@ social:
     url: "https://open.spotify.com/show/6yn79j9WeTIXQSc0Mg1BHC"
     includeInAbout: true
     includeInCV: true
+  - label: "Site web personnel"
+    url: "https://maximilien-petit-cv-et-bidouilles.github.io/"
+    includeInAbout: true
+    includeInCV: true
   
 
 skills:
