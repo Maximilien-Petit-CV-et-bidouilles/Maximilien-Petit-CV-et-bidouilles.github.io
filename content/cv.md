@@ -5,6 +5,7 @@ date: '2025-03-25T08:29:27+01:00'
 draft: false
 title: 'cv'
 ---
+## Site personnel 
 
 {{< qr text="https://maximilien-petit-cv-et-bidouilles.github.io/" />}}
 
