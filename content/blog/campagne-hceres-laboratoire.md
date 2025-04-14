@@ -31,7 +31,7 @@ toc: false
 
 La démarche résumée dans la carte heuristique ci-dessous :
 
-<img src="/MP/images/mindmap1.svg" alt="Diagramme de la démarche" style="width:100%; height:auto;">
+<img src="/images/mindmap1.svg" alt="Diagramme de la démarche" style="width:100%; height:auto;">
 
 ### 1 Extraction des publications de l'EC
 
