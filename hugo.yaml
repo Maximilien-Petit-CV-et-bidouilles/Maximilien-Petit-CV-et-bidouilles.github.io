@@ -55,6 +55,7 @@ menu:
       name: Cv
       url: /cv
       weight: 6
+      target: _blank
     - identifier: about
       name: À propos
       url: /about
