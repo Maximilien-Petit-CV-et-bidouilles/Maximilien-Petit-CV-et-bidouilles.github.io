@@ -46,20 +46,19 @@ menu:
     - identifier: blog
       name: Bidouilles
       url: /blog
-      weight: 3
+      weight: 2
     - identifier: tags
       name: Tags
       url: /tags
-      weight: 5
+      weight: 3
     - identifier: cv
       name: Cv
       url: /cv
-      weight: 6
-      target: _blank
+      weight: 4
     - identifier: about
       name: À propos
       url: /about
-      weight: 7
+      weight: 5
 services:
   googleAnalytics:
     id:
