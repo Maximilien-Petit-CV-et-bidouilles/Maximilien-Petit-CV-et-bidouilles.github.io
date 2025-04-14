@@ -70,11 +70,11 @@ Pour installer Yunohost sur Raspberry Pi 4, je recommande d'avoir **le logiciel 
 
 Ci-dessous, des captures d'écran de l'interface Yunohost. Vous pouvez ainsi réaliser que la solution offre des fonctionnalités pour faire des diagnostics de sécurité, des sauvegardes de vos installations, des mises à jour de votre système, une gestion de vos domaines et de vos utilisateurs. 
 
-<img src="/MP/images/yuno_1.PNG" alt="YunoHost 1" style="width:100%; height:auto;">
+<img src="/images/yuno_1.PNG" alt="YunoHost 1" style="width:100%; height:auto;">
 
-<img src="/MP/images/yuno_2.PNG" alt="YunoHost 2" style="width:100%; height:auto;">
+<img src="/images/yuno_2.PNG" alt="YunoHost 2" style="width:100%; height:auto;">
 
-<img src="/MP/images/yuno_3.PNG" alt="YunoHost 3" style="width:100%; height:auto;">
+<img src="/images/yuno_3.PNG" alt="YunoHost 3" style="width:100%; height:auto;">
 
 ## En bonus : les usages
 
@@ -92,7 +92,7 @@ Au-delà de l'auto-hébergement, **l'intérêt également d'utiliser du matérie
 
 Par exemple, ci-dessous, la photo d'une "station d'écoute" permettant à des publics d'un colloque célébrant les 30 ans d'une unité de recherche d'écouter les créations sonores et podcasts du laboratoire. La station est basée sur un Raspberry Pi 4 Modèle B, un module de carte son, un écran tactile, et des logiciels libres (Raspberry Pi OS, Tenacity, VLC, Qmmp).
 
-<img src="/MP/images/station_ecoute_colloque.png" alt="Station d'écoute" style="width:100%; height:auto;">
+<img src="/images/station_ecoute_colloque.png" alt="Station d'écoute" style="width:100%; height:auto;">
 
 ## Pour aller plus loin
 
