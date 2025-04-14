@@ -1,4 +1,4 @@
-baseURL: "https://maximilienpetitbidouilles.github.io/MP/"
+baseURL: "https://Maximilien-Petit-CV-et-bidouilles.github.io"
 languageCode: en-us
 title: Maximilien Petit
 theme: terminal
@@ -29,7 +29,7 @@ params:
   latestContentSize: 10
   logo:
     logoText: Maximilien Petit
-    logoHomeLink: https://maximilienpetitbidouilles.github.io/MP/
+    logoHomeLink: https://Maximilien-Petit-CV-et-bidouilles.github.io
   social:
     twitter: 
   tools:
