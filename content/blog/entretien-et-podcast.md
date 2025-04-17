@@ -1,6 +1,6 @@
 ---
 date: '2025-04-17T11:13:27+02:00'
-draft: true
+draft: false
 title: 'Entretien qualitatif et podcast'
 author: Maximilien Petit
 tags: ["Données de recherche"]

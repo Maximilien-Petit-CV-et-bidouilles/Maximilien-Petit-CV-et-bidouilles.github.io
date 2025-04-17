@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Maximilien Petit</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Apr 2025 09:12:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 11:13:27 +0200</lastBuildDate>
     <atom:link href="https://Maximilien-Petit-CV-et-bidouilles.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entretien qualitatif et podcast</title>
+      <link>https://Maximilien-Petit-CV-et-bidouilles.github.io/blog/entretien-et-podcast/</link>
+      <pubDate>Thu, 17 Apr 2025 11:13:27 +0200</pubDate>
+      <guid>https://Maximilien-Petit-CV-et-bidouilles.github.io/blog/entretien-et-podcast/</guid>
+      <description>&lt;div class=&#34;custom-toc&#34;&gt;&#xD;&#xA;    &lt;details open&gt;&#xD;&#xA;      &lt;summary style=&#34;cursor: pointer; font-weight: bold; margin-bottom: 10px;&#34;&gt;Table des matières&lt;/summary&gt;&#xD;&#xA;      &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#le-problème&#34;&gt;Le problème&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#qui-peut-aider-&#34;&gt;Qui peut aider ?&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#la-bidouille&#34;&gt;La bidouille&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#pour-aller-plus-loin&#34;&gt;Pour aller plus loin&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xD;&#xA;    &lt;/details&gt;&#xD;&#xA;  &lt;/div&gt;&#xA;&lt;h2 id=&#34;le-problème&#34;&gt;Le problème&lt;/h2&gt;&#xA;&lt;p&gt;On souhaite &lt;strong&gt;prolonger les échanges qui proviennent d&amp;rsquo;une enquête quantitative et qualitative sur les données de la recherche&lt;/strong&gt; au sein de l&amp;rsquo;Université Paris-Saclay. Les conclusions de ce travail (URL en fin de bidouille) laissent à penser qu&amp;rsquo;il y a des discussions à nourrir sur la question des données et que des perspectives pourraient s&amp;rsquo;ouvrir notamment si les enseignants-chercheurs et le personnel &amp;ldquo;support&amp;rdquo; (ITRF, ITA, bibliothèques) se rencontrent et débattent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mettre en place un circuit de sauvegarde des mémoires avec Omeka S</title>
       <link>https://Maximilien-Petit-CV-et-bidouilles.github.io/blog/sauvegarde-memoires-omeka-s/</link>
