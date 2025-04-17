@@ -26,7 +26,7 @@ params:
   images:
     - /og-image.png
   autoCover: true
-  latestContentSize: 10
+  latestContentSize: 15
   logo:
     logoText: Maximilien Petit
     logoHomeLink: https://Maximilien-Petit-CV-et-bidouilles.github.io
